@@ -28,5 +28,6 @@ const calcAverage=function(arr){
     return sum / arr.length;
 }
 
+// showing result in console 
 console.log(calcAverage(tips));
 console.log(calcAverage(totals))
