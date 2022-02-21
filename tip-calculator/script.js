@@ -31,5 +31,4 @@ const calcAverage=function(arr){
 // showing result in console 
 console.log(calcAverage(tips));
 console.log(calcAverage(totals));
-console.log(calcAverage(totals));
 
